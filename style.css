@@ -5,7 +5,25 @@
     align-items: center;
  }
  .container {
-    height: 40%;
+    height: 30%;
     width: 70%;
     background-color: rgb(63, 23, 29);
+}
+.item1 {
+    background-color: rgb(114, 74, 81);
+    height: 26%;
+    margin: 7px;
+    display: flex;
+}
+.item2 {
+    background-color: rgb(114, 74, 81);
+    height: 26%;
+    margin: 7px;
+    display: flex;
+}
+.item3 {
+    background-color: rgb(114, 74, 81);
+    height: 26%;
+    margin: 7px;
+    display: flex;
 }
